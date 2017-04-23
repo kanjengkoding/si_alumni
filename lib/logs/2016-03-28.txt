@@ -1,0 +1,47 @@
+Time : 05:58:38
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'Noerman Agustiyan', 'noermana', 'laki-laki', 'Kota Administrasi Jakarta Selatan', '1992/08/25', '1', '', 'ya', '12', '183', '<p>Kom. Paspampres</p>')
+
+Time : 05:58:00
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'Noerman Agustiyan', 'noermana', 'laki-laki', 'Kota Administrasi Jakarta Selatan', '1992/08/25', '1', '', 'ya', '12', '183', '<p>Kom. Paspampres</p>')
+
+Time : 05:55:52
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'Noerman Agustiyan', 'noerman', 'laki-laki', 'Kota Administrasi Jakarta Selatan', '1992/08/25', '1', '', 'ya', '12', '183', '<p>Komp. Paspampres</p>')
+
+Time : 05:55:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''noermana\'' at line 1
+Raw SQL : SELECT * FROM aluni_pengguna WHERE username = 'noermana\'
+
+Time : 05:55:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''noermana\'' at line 1
+Raw SQL : SELECT * FROM aluni_pengguna WHERE username = 'noermana\'
+
+Time : 05:54:43
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'Noerman Agustiyan', 'noermana', 'laki-laki', 'Kota Administrasi Jakarta Selatan', '1992/08/25', '1', '', 'ya', '12', '183', '<p>Komp. Paspampres</p>')
+
+Time : 05:53:40
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'Noerman Agustiyan', 'noermana', 'laki-laki', 'Kota Administrasi Jakarta Selatan', '1992/08/25', '1', '', 'ya', '12', '183', '<p>Komp. Paspampres</p>')
+
+Time : 05:08:31
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'anoerman a', 'noerman', 'laki-laki', '', '', '', '', 'ya', '', '', '')
+
+Time : 05:08:19
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'anoerman a', 'anoermana', 'laki-laki', '', '', '', '', 'ya', '', '', '')
+
+Time : 05:07:30
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'anoerman a', 'anoermana', 'laki-laki', '', '', '', '', 'ya', '', '', '')
+
+Time : 05:05:03
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'anoerman', 'anoermana', 'laki-laki', '', '', '', '', 'ya', '', '', '')
+
+Time : 05:03:50
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', 'anoerman', 'anoermana', 'laki-laki', '', '', '', '', 'ya', '', '', '')

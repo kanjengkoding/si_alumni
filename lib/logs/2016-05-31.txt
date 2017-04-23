@@ -1,0 +1,10 @@
+Time : 05:20:40
+SQLSTATE[HY000]: General error: 1449 The user specified as a definer ('k6876311_aan'@'localhost') does not exist
+Raw SQL : SELECT * FROM aluni_v_anggota_lengkap  WHERE aktif = 'ya'  ORDER BY nama_lengkap ASC
+
+Time : 05:15:47
+SQLSTATE[HY000]: General error: 1449 The user specified as a definer ('k6876311_aan'@'localhost') does not exist
+Raw SQL : SELECT * FROM aluni_v_anggota_lengkap  WHERE aktif = 'ya'  ORDER BY nama_lengkap ASC
+
+Time : 05:12:40
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

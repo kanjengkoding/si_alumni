@@ -1,0 +1,6 @@
+Time : 20:59:40
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_alumni.aluni_pengaturan' doesn't exist
+Raw SQL : SELECT * FROM aluni_pengaturan
+
+Time : 20:07:02
+SQLSTATE[HY000] [1049] Unknown database 'aluni_v2'

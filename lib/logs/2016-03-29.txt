@@ -1,0 +1,23 @@
+Time : 12:18:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aktif = 'ya'  ORDER BY id_provinsi ASC' at line 1
+Raw SQL : SELECT id_provinsi, id_kota, nama_kota FROM aluni_m_kota  WHERE id_provinsi = '12' aktif = 'ya'  ORDER BY id_provinsi ASC
+
+Time : 12:16:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aktif = 'ya'  ORDER BY id_provinsi ASC' at line 1
+Raw SQL : SELECT id_provinsi, id_kota, nama_kota FROM aluni_m_kota  WHERE id_provinsi = '12' aktif = 'ya'  ORDER BY id_provinsi ASC
+
+Time : 12:11:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aktif = 'ya'  ORDER BY id_provinsi ASC' at line 1
+Raw SQL : SELECT id_provinsi, id_kota, nama_kota FROM aluni_m_kota  WHERE id_provinsi = '12' aktif = 'ya'  ORDER BY id_provinsi ASC
+
+Time : 12:10:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aktif = 'ya'  ORDER BY id_provinsi ASC' at line 1
+Raw SQL : SELECT id_provinsi, id_kota, nama_kota FROM aluni_m_kota  WHERE id_provinsi = '12' aktif = 'ya'  ORDER BY id_provinsi ASC
+
+Time : 12:09:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aktif = 'ya'  ORDER BY id_provinsi ASC' at line 1
+Raw SQL : SELECT id_provinsi, id_kota, nama_kota FROM aluni_m_kota  WHERE id_provinsi = '12' aktif = 'ya'  ORDER BY id_provinsi ASC
+
+Time : 12:09:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'aktif = 'ya'  ORDER BY id_provinsi ASC' at line 1
+Raw SQL : SELECT id_provinsi, id_kota, nama_kota FROM aluni_m_kota  WHERE id_provinsi = '12' aktif = 'ya'  ORDER BY id_provinsi ASC
